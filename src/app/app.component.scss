@@ -1,0 +1,12 @@
+.is-done {
+    background-color: #3adb76;
+}
+
+.card {
+    min-height: 200px;
+    margin-top: 20px;
+
+    .card-body {
+        background-color: rgba(0, 0, 0, 0.2);
+    }
+}
